@@ -2,10 +2,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ZhongYiKeJi
-- 🌱 I’m currently learning Vue
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Go,Objective-c c/c++ Swift 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<img src="https://github-readme-stats.vercel.app/api?username=nsobjects&show_icons=true&hide_title=true" alt="github stat" />
